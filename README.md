@@ -1,5 +1,5 @@
 # Crammer-solver
-Purpuse:
+Purpose:
 I programed this small code to solve any matrix inputed using Crammer method.
 
     Files: 
